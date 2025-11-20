@@ -7,7 +7,7 @@
 
 2.  Write a program to accept rating of the movie as double and Movie
     name as String.
-    Check and print the category of movie based on rating.  
+    Check and print the category of movie based on rating. 
     Example -
     INPUT
     4.9
